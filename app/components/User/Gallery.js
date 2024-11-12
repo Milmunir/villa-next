@@ -1,4 +1,4 @@
-import React from 'react';
+'use client'
 import Link from 'next/link';
 import { PhotoProvider, PhotoView } from 'react-photo-view';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
